@@ -2,7 +2,7 @@
 
 A web-based tool for visualizing binary trees and their operations.
 
-![Binary Tree Visualizer]()
+![Binary Tree Visualizer](https://github.com/user-attachments/assets/8eb959bc-7f6b-4641-a980-e26de0345b4b)
 
 ## Features
 
